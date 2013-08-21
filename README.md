@@ -2,7 +2,7 @@ SIGAC.hs
 ====
 __Name:__ Sistema Automatizado para Gestão de Acesso Condicionado ao Centro Histórico de uma Cidade
 
-__Subject:__ Programming I, 1st yr (class of 2010/2011)
+__Subject:__ Algorithms and Data Structures, 1st yr (class of 2010/2011)
 
 __Course:__ Digital Games Development Engineering @ IPCA
 
@@ -38,4 +38,3 @@ authors
 Álison Fernandes  | [DementedVice.wordpress.com/about](http://dementedvice.wordpress.com/about/)
 
 Hugo Ruivo | [LinkedIn](http://pt.linkedin.com/in/hruivo89) | [HRuivoPortfolio.wordpress.com](http://hruivoportfolio.wordpress.com/)
-
